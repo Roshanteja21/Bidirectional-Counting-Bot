@@ -1,1 +1,1 @@
-# Bidirectional-Counting-Bot
+# Counting-Bot
